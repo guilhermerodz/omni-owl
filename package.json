@@ -5,7 +5,7 @@
   "description": "A dark theme based on Omni and Night Owl ⚡️",
   "author": "Guilherme Rodz <gui.rodz.dev@gmail.com>",
   "publisher": "guilhermerodz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -16,11 +16,14 @@
     "Themes"
   ],
   "keywords": [
-    "omni owl",
-    "omni",
-    "night owl",
-    "theme",
-    "color-theme"
+    "Theme",
+    "Dark Theme",
+    "Omni Owl",
+    "Night Owl",
+    "Omni",
+    "Italic",
+    "Vivid Colors",
+    "Color Scheme"
   ],
   "icon": "icon.png",
   "galleryBanner": {
