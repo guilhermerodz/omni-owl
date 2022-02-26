@@ -7,7 +7,9 @@ async function run() {
   await build(omniOwl)
   await build(omniOwlMinimalItalics)
 
-  pressEnterToExit()
+  if (process.env.DEBUG_VSCODE) {
+    pressEnterToExit() // Hold the process alive
+  }
 }
 
 run()

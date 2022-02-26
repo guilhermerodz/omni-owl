@@ -60,7 +60,7 @@
     "vscode:prepublish": "npm run build:fetch",
     "vsce-publish": "vsce publish",
     "postinstall": "npm run fetch:reference",
-    "dev": "ts-node-dev -r tsconfig-paths/register ./src/index.ts",
+    "dev": "DEBUG_VSCODE=1 ts-node-dev -r tsconfig-paths/register ./src/index.ts",
     "exec:file": "ts-node -r tsconfig-paths/register",
     "build": "npm run exec:file ./src/index.ts",
     "build:fetch": "npm run fetch:reference && npm run build",
