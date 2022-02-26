@@ -48,9 +48,9 @@ The font in the preview image is Dank Mono, [available here](https://dank.sh/). 
 This theme is heavily inspired by [Omni from Rocketseat](https://github.com/getomni/visual-studio-code) and [Night Owl from Sarah Drasner](https://github.com/sdras/night-owl-vscode-theme).
 It is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/guilhermerodz/omni-owl/graphs/contributors).
 
-| [![Guilherme Rodz](https://github.com/guilhermerodz.png?size=100)](https://github.com/guilhermerodz)  |
-| ----------------------------------------------------------------------------------------------------- |
-| [Guilherme Rodz](https://github.com/guilhermerodz)                                                    |
+| [![Guilherme Rodz](https://github.com/guilhermerodz.png?size=100)](https://github.com/guilhermerodz) |
+| ---------------------------------------------------------------------------------------------------- |
+| [Guilherme Rodz](https://github.com/guilhermerodz)                                                   |
 
 ## Disclaimer
 
